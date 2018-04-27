@@ -7,4 +7,6 @@ Flask
 flask-bcrypt
 flash-recaptcha
 
+Note: Just run the file using python init.py and the port should be active right away unless your firewall is blocking it.
+
 Enjoy the script as it's pretty much easy and simple to use.
